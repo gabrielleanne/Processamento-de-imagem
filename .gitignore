@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.out
+build/
+.vscode/
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
